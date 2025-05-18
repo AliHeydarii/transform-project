@@ -37,7 +37,7 @@
                 position: absolute;
                 top: 0;left: 0;
                 font-size: 10px;
-                transform: rotate(90deg) translate(160px, 205px)scaleX(-1);
+                transform: rotate(90deg) translate(160px, 185px)scaleX(-1);
             }
         }  
         &:hover{
